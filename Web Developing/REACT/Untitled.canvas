@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"REACT/life cycle of components.md","id":"929fa6e0ba0831a5","x":-547,"y":-322,"width":549,"height":420},
+		{"type":"file","file":"REACT/useEffect().md","id":"812cfb8f8185cced","x":152,"y":-322,"width":676,"height":420},
+		{"type":"file","file":"REACT/component rendering.md","id":"94e02ada4afc27c1","x":152,"y":200,"width":676,"height":680},
+		{"id":"c8ba58243d73905c","x":-472,"y":240,"width":400,"height":400,"type":"file","file":"REACT/creating instances of a component.md"}
+	],
+	"edges":[
+		{"id":"c67057a5b3d1641a","fromNode":"929fa6e0ba0831a5","fromSide":"right","toNode":"812cfb8f8185cced","toSide":"left"},
+		{"id":"bf2d28c4ef6147b0","fromNode":"812cfb8f8185cced","fromSide":"bottom","toNode":"94e02ada4afc27c1","toSide":"top"},
+		{"id":"d3f2386ed4f537cc","fromNode":"929fa6e0ba0831a5","fromSide":"bottom","toNode":"c8ba58243d73905c","toSide":"top"}
+	]
+}
